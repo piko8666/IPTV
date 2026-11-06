@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="dlst03" group-title="北京",北京密云古北水镇
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/dlst03/index.m3u8
+#EXTINF:-1 tvg-id="zjwzblt" group-title="河北",河北秦皇岛金梦海湾
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/zjwzblt/index.m3u8
+#EXTINF:-1 tvg-id="zjwzbblh" group-title="河北",河北秦皇岛老龙头景区
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/zjwzbblh/index.m3u8
+#EXTINF:-1 tvg-id="ljgcdsc" group-title="辽宁",辽宁沈阳浑河桥
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/ljgcdsc/index.m3u8
+#EXTINF:-1 tvg-id="hsxksqj" group-title="吉林",吉林市朱雀山
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/hsxksqj/index.m3u8
+#EXTINF:-1 tvg-id="hkylxs03" group-title="吉林",吉林市北山公园
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/hkylxs03/index.m3u8
+#EXTINF:-1 tvg-id="taishan03" group-title="黑龙江",黑龙江萝北县嘟噜河省级自然保护区
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/taishan03/index.m3u8
+#EXTINF:-1 tvg-id="hkts09" group-title="黑龙江",黑龙江哈尔滨霁虹桥
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/hkts09/index.m3u8
+#EXTINF:-1 tvg-id="hspyt" group-title="江苏",江苏徐州之夜
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/hspyt/index.m3u8
+#EXTINF:-1 tvg-id="taishan05" group-title="江苏",江苏无锡大剧院
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/taishan05/index.m3u8
+#EXTINF:-1 tvg-id="emsyh" group-title="浙江",浙江舟山嵊泗县中心渔港
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/emsyh/index.m3u8
+#EXTINF:-1 tvg-id="djd01" group-title="浙江",浙江舟山东极岛
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/djd01/index.m3u8
+#EXTINF:-1 tvg-id="wgw02" group-title="安徽",安徽黄山风景区
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/wgw02/index.m3u8
+#EXTINF:-1 tvg-id="wysynf" group-title="福建",福建南平武夷山
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/wysynf/index.m3u8
+#EXTINF:-1 tvg-id="jhs01" group-title="山东",山东青岛艾山天文台
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/jhs01/index.m3u8
+#EXTINF:-1 tvg-id="pts01" group-title="河南",河南焦作红石峡
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/pts01/index.m3u8
+#EXTINF:-1 tvg-id="hlzycc" group-title="河南",河南浚县古城景区北城门
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/hlzycc/index.m3u8
+#EXTINF:-1 tvg-id="hkts02" group-title="湖南",湖南邵阳崀山风景名胜区
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/hkts02/index.m3u8
+#EXTINF:-1 tvg-id="zsslstpt" group-title="湖南",湖南长沙果园镇田汉文化园
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/zsslstpt/index.m3u8
+#EXTINF:-1 tvg-id="djyqyl1" group-title="广西",广东深圳福田红树林
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/djyqyl1/index.m3u8
+#EXTINF:-1 tvg-id="ljgcwglytylxs" group-title="重庆",重庆巫山长江画卷
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/ljgcwglytylxs/index.m3u8
+#EXTINF:-1 tvg-id="ylh04" group-title="重庆",重庆李子坝站
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/ylh04/index.m3u8
+#EXTINF:-1 tvg-id="zsslsjjfsd" group-title="四川",四川成都安顺廊桥
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/zsslsjjfsd/index.m3u8
+#EXTINF:-1 tvg-id="mdjxxdsb" group-title="青海",青海门源仙米国家森林公园
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/mdjxxdsb/index.m3u8
+#EXTINF:-1 tvg-id="ylxs12" group-title="云南",云南保山板桥镇青龙街
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/ylxs12/index.m3u8
+#EXTINF:-1 tvg-id="dhyyqsm" group-title="云南",云南德宏勐焕大金塔
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/dhyyqsm/index.m3u8
+#EXTINF:-1 tvg-id="taishan02" group-title="陕西",陕西咸阳乾县乾陵景区
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/taishan02/index.m3u8
+#EXTINF:-1 tvg-id="nss01" group-title="陕西",西安阎良关山石川河风景区
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/nss01/index.m3u8
