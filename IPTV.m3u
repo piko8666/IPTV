@@ -673,59 +673,59 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="国际频道",华丽翡翠
 http://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 group-title="全球台直播",🇦🇹奥地利Moviesphere
+#EXTINF:-1 group-title="全球直播",🇦🇹奥地利Moviesphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="全球台直播",🇫🇷法国Eurosport
+#EXTINF:-1 group-title="全球直播",🇫🇷法国Eurosport
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
-#EXTINF:-1 group-title="全球台直播",🇱🇰斯里兰卡Mon Tamil TV
+#EXTINF:-1 group-title="全球直播",🇱🇰斯里兰卡Mon Tamil TV
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:-1 group-title="全球台直播",🇿🇦南非Wild Earth
+#EXTINF:-1 group-title="全球直播",🇿🇦南非Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="全球台直播",🇪🇸西班牙DW Español Ⓢ
+#EXTINF:-1 group-title="全球直播",🇪🇸西班牙DW Español Ⓢ
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="全球台直播",🇮🇹意大利Food Network
+#EXTINF:-1 group-title="全球直播",🇮🇹意大利Food Network
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-#EXTINF:-1 group-title="全球台直播",🇮🇶伊拉克Dijlah TV
+#EXTINF:-1 group-title="全球直播",🇮🇶伊拉克Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="全球台直播",🇫🇮芬兰Alfa Ⓢ
+#EXTINF:-1 group-title="全球直播",🇫🇮芬兰Alfa Ⓢ
 https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
-#EXTINF:-1 group-title="全球台直播",🇨🇷哥斯达黎加Canal 8
+#EXTINF:-1 group-title="全球直播",🇨🇷哥斯达黎加Canal 8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 group-title="全球台直播",🇹🇷土耳其TRT World
+#EXTINF:-1 group-title="全球直播",🇹🇷土耳其TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="全球台直播",🇳🇱荷兰Omrop Fryslân
+#EXTINF:-1 group-title="全球直播",🇳🇱荷兰Omrop Fryslân
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
-#EXTINF:-1 group-title="全球台直播",🇹🇭泰国Thai PBS
+#EXTINF:-1 group-title="全球直播",🇹🇭泰国Thai PBS
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="全球台直播",🇬🇧英国Desi Plus
+#EXTINF:-1 group-title="全球直播",🇬🇧英国Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:-1 group-title="全球台直播",🇶🇦卡塔尔Al Jazeera Arabic
+#EXTINF:-1 group-title="全球直播",🇶🇦卡塔尔Al Jazeera Arabic
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 group-title="全球台直播",🇦🇫阿富汗5AAB TV
+#EXTINF:-1 group-title="全球直播",🇦🇫阿富汗5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="全球台直播",🇧🇩孟加拉国DESHI TV
+#EXTINF:-1 group-title="全球直播",🇧🇩孟加拉国DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="全球台直播",🇰🇷韩国MBC
+#EXTINF:-1 group-title="全球直播",🇰🇷韩国MBC
 http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
-#EXTINF:-1 group-title="全球台直播",🇰🇷韩国KBS Drama
+#EXTINF:-1 group-title="全球直播",🇰🇷韩国KBS Drama
 http://8.138.7.223/tv/korea.php?id=32
-#EXTINF:-1 group-title="全球台直播",🇰🇷韩国AriangTV
+#EXTINF:-1 group-title="全球直播",🇰🇷韩国AriangTV
 http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="全球台直播",🇰🇷韩国GS Shop
+#EXTINF:-1 group-title="全球直播",🇰🇷韩国GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="全球台直播",🇺🇸美国Fox weather
+#EXTINF:-1 group-title="全球直播",🇺🇸美国Fox weather
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-#EXTINF:-1 group-title="全球台直播",🇺🇸美国Cable News Network
+#EXTINF:-1 group-title="全球直播",🇺🇸美国Cable News Network
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="全球台直播",🇺🇸美国Pac-12 Network
+#EXTINF:-1 group-title="全球直播",🇺🇸美国Pac-12 Network
 https://pac12-samsungus.amagi.tv/playlist480_p.m3u8
-#EXTINF:-1 group-title="全球台直播",🇮🇳印度9Bharatvarsh
+#EXTINF:-1 group-title="全球直播",🇮🇳印度9Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="全球台直播",🇮🇳印度INDIA TODAY
+#EXTINF:-1 group-title="全球直播",🇮🇳印度INDIA TODAY
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 group-title="全球台直播",🇮🇳印度NDTV India
+#EXTINF:-1 group-title="全球直播",🇮🇳印度NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1 group-title="全球台直播",🇮🇳印度NDTV 24x7
+#EXTINF:-1 group-title="全球直播",🇮🇳印度NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
 #EXTINF:-1 tvg-id="dlst03" group-title="直播中国",北京密云古北水镇
