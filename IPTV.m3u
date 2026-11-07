@@ -95,6 +95,38 @@ webview://https://yangshipin.cn/tv/home?pid=600099658
 webview://https://yangshipin.cn/tv/home?pid=600099655
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视;央视频",CCTV 怀旧剧场
 webview://https://yangshipin.cn/tv/home?pid=600099620
+#EXTINF:-1 group-title="凤凰卫视",凤凰中文
+http://112.92.129.96:9898/hls/128/index.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰中文
+http://120.238.5.44:1698/hls/86/index.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰资讯
+http://120.238.5.44:1698/hls/85/index.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰香港
+http://120.238.5.44:1698/hls/87/index.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰中文
+http://218.206.193.218:8888/hls/110/index.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰资讯
+http://218.206.193.218:8888/hls/109/index.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="凤凰卫视",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="凤凰卫视",凤凰香港
+http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="凤凰卫视",凤凰电影
+http://bak.dou.ddns-ip.net/api.php?n=Bpjt&id=6Ha8ZM&tk=avX2AjCAKgVf
+#EXTINF:-1 group-title="凤凰卫视",凤凰资讯
+http://ccav.zone.id/php/fh.php?id=1
+#EXTINF:-1 group-title="凤凰卫视",凤凰中文
+http://ccav.zone.id/php/fh.php?id=2
+#EXTINF:-1 group-title="凤凰卫视",凤凰香港
+http://ccav.zone.id/php/fh.php?id=3
+#EXTINF:-1 group-title="凤凰卫视",凤凰中文
+http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰资讯
+http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰香港
+http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视;央视频",北京卫视
 webview://https://yangshipin.cn/tv/home?pid=600002309
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视;央视频",江苏卫视
@@ -395,6 +427,10 @@ http://61.145.188.90:50055/udp/239.77.0.112:5146
 rtsp://183.59.56.116:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?0&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 #EXTINF:-1 group-title="广东体育",广东体育高清
 http://120.87.19.109:80/PLTV/88888973/224/3221225750/10000100000000060000000000334588_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xxwqT5CsuIcla/KR82wV4KQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
+#EXTINF:-1 group-title="广东体育",广东体育
+http://198.204.228.26/live/gdty.m3u8
+#EXTINF:-1 group-title="广东体育",广东体育
+http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 #EXTINF:-1 group-title="四季台湾",中天新闻(备)
 http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
 #EXTINF:-1 group-title="四季台湾",TVBS新闻
@@ -563,14 +599,498 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 group-title="韩国KR",RNA
 http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-#EXTINF:-1 group-title="美国US2",KESQ-TV ABC 3 (Palm Springs CA)
+#EXTINF:-1 group-title="国际频道",KESQ-TV ABC 3 (Palm Springs CA)
 http://nocable.cc:8080/live/darriusthomas115@gmail.com/darriusthomas115@2025/121235.ts
-#EXTINF:-1 group-title="美国US2",WACX-TV 55.1 SuperChannel Orlando (Orlando FL)
+#EXTINF:-1 group-title="国际频道",WACX-TV 55.1 SuperChannel Orlando (Orlando FL)
 https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
-#EXTINF:-1 group-title="美国US2",KCWX-TV MyNetworkTV 2 (San Antonio TX)
+#EXTINF:-1 group-title="国际频道",KCWX-TV MyNetworkTV 2 (San Antonio TX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 group-title="美国US2",WYPL-TV 18 (Memphis TN)
+#EXTINF:-1 group-title="国际频道",WYPL-TV 18 (Memphis TN)
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 group-title="国际频道",天映频道
+http://74.91.26.218:82/live/typd.m3u8
+#EXTINF:-1 group-title="国际频道",新加坡CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="国际频道",英国BBC新闻 美国版
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 group-title="国际频道",天空新闻
+https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="国际频道",美国CNN
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:-1 group-title="国际频道",美国CNN 英国版
+https://d3fzntptkfpmvg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6rc4k0y56fezj/CNNFAST_GB.m3u8
+#EXTINF:-1 group-title="国际频道",美国Bloomberg
+https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8
+#EXTINF:-1 group-title="国际频道",俄罗斯RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",俄罗斯金砖TV
+https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="国际频道",法国France 24
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",韩国阿里郎
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",韩国阿里郎电台
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",日本NHK国际
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 group-title="国际频道",卡塔尔Al Jazeera 英文
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="国际频道",卡特尔Al Jazeera 阿语
+http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="国际频道",俄罗斯BRIDGE DELUXE
+http://194.143.150.123:8080/udp/239.195.5.213:1234
+#EXTINF:-1 group-title="国际频道",俄罗斯ЖAPA
+http://194.143.150.123:8080/udp/239.195.5.11:1234
+#EXTINF:-1 group-title="国际频道",美国MTV LIVE
+http://23.237.104.106:8080/USA_MTV_LIVE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="国际频道",韩国K-POP by CJ ENM
+https://dah0tmei2n9kh.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/chunklist.m3u8
+#EXTINF:-1 group-title="国际频道",荷兰Sol Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 group-title="国际频道",英国Trace Urban
+https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/ts-eu-w1-n2/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",Cinemax精选
+http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
+#EXTINF:-1 group-title="国际频道",Cinemax经典
+http://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="国际频道",BOOMERANG
+http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="国际频道",Animal lPlanet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="国际频道",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",Love Nature
+https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 group-title="国际频道",流言终结者
+https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8
+#EXTINF:-1 group-title="国际频道",德国SR Fernsehen
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 group-title="国际频道",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",香港面包
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="国际频道",华丽翡翠
+http://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 group-title="全球台直播",🇦🇹奥地利Moviesphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="全球台直播",🇫🇷法国Eurosport
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
+#EXTINF:-1 group-title="全球台直播",🇱🇰斯里兰卡Mon Tamil TV
+http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 group-title="全球台直播",🇿🇦南非Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="全球台直播",🇪🇸西班牙DW Español Ⓢ
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="全球台直播",🇮🇹意大利Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+#EXTINF:-1 group-title="全球台直播",🇮🇶伊拉克Dijlah TV
+https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="全球台直播",🇫🇮芬兰Alfa Ⓢ
+https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
+#EXTINF:-1 group-title="全球台直播",🇨🇷哥斯达黎加Canal 8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 group-title="全球台直播",🇹🇷土耳其TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="全球台直播",🇳🇱荷兰Omrop Fryslân
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
+#EXTINF:-1 group-title="全球台直播",🇹🇭泰国Thai PBS
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="全球台直播",🇬🇧英国Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 group-title="全球台直播",🇶🇦卡塔尔Al Jazeera Arabic
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="全球台直播",🇦🇫阿富汗5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="全球台直播",🇧🇩孟加拉国DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="全球台直播",🇰🇷韩国MBC
+http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+#EXTINF:-1 group-title="全球台直播",🇰🇷韩国KBS Drama
+http://8.138.7.223/tv/korea.php?id=32
+#EXTINF:-1 group-title="全球台直播",🇰🇷韩国AriangTV
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="全球台直播",🇰🇷韩国GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="全球台直播",🇺🇸美国Fox weather
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+#EXTINF:-1 group-title="全球台直播",🇺🇸美国Cable News Network
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="全球台直播",🇺🇸美国Pac-12 Network
+https://pac12-samsungus.amagi.tv/playlist480_p.m3u8
+#EXTINF:-1 group-title="全球台直播",🇮🇳印度9Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="全球台直播",🇮🇳印度INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 group-title="全球台直播",🇮🇳印度NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 group-title="全球台直播",🇮🇳印度NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:-1 tvg-id="dlst03" group-title="直播中国",北京密云古北水镇
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/dlst03/index.m3u8
+#EXTINF:-1 tvg-id="zjwzblt" group-title="直播中国",河北秦皇岛金梦海湾
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/zjwzblt/index.m3u8
+#EXTINF:-1 tvg-id="zjwzbblh" group-title="直播中国",河北秦皇岛老龙头景区
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/zjwzbblh/index.m3u8
+#EXTINF:-1 tvg-id="ljgcdsc" group-title="直播中国",辽宁沈阳浑河桥
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/ljgcdsc/index.m3u8
+#EXTINF:-1 tvg-id="hsxksqj" group-title="直播中国",吉林市朱雀山
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/hsxksqj/index.m3u8
+#EXTINF:-1 tvg-id="hkylxs03" group-title="直播中国",吉林市北山公园
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/hkylxs03/index.m3u8
+#EXTINF:-1 tvg-id="taishan03" group-title="直播中国",黑龙江萝北县嘟噜河省级自然保护区
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/taishan03/index.m3u8
+#EXTINF:-1 tvg-id="hkts09" group-title="直播中国",黑龙江哈尔滨霁虹桥
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/hkts09/index.m3u8
+#EXTINF:-1 tvg-id="hspyt" group-title="直播中国",江苏徐州之夜
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/hspyt/index.m3u8
+#EXTINF:-1 tvg-id="taishan05" group-title="直播中国",江苏无锡大剧院
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/taishan05/index.m3u8
+#EXTINF:-1 tvg-id="emsyh" group-title="直播中国",浙江舟山嵊泗县中心渔港
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/emsyh/index.m3u8
+#EXTINF:-1 tvg-id="djd01" group-title="直播中国",浙江舟山东极岛
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/djd01/index.m3u8
+#EXTINF:-1 tvg-id="wgw02" group-title="直播中国",安徽黄山风景区
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/wgw02/index.m3u8
+#EXTINF:-1 tvg-id="wysynf" group-title="直播中国",福建南平武夷山
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/wysynf/index.m3u8
+#EXTINF:-1 tvg-id="jhs01" group-title="直播中国",山东青岛艾山天文台
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/jhs01/index.m3u8
+#EXTINF:-1 tvg-id="pts01" group-title="直播中国",河南焦作红石峡
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/pts01/index.m3u8
+#EXTINF:-1 tvg-id="hlzycc" group-title="直播中国",河南浚县古城景区北城门
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/hlzycc/index.m3u8
+#EXTINF:-1 tvg-id="hkts02" group-title="直播中国",湖南邵阳崀山风景名胜区
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/hkts02/index.m3u8
+#EXTINF:-1 tvg-id="zsslstpt" group-title="直播中国",湖南长沙果园镇田汉文化园
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/zsslstpt/index.m3u8
+#EXTINF:-1 tvg-id="djyqyl1" group-title="直播中国",广东深圳福田红树林
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/djyqyl1/index.m3u8
+#EXTINF:-1 tvg-id="ljgcwglytylxs" group-title="直播中国",重庆巫山长江画卷
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/ljgcwglytylxs/index.m3u8
+#EXTINF:-1 tvg-id="ylh04" group-title="直播中国",重庆李子坝站
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/ylh04/index.m3u8
+#EXTINF:-1 tvg-id="zsslsjjfsd" group-title="直播中国",四川成都安顺廊桥
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/zsslsjjfsd/index.m3u8
+#EXTINF:-1 tvg-id="mdjxxdsb" group-title="直播中国",青海门源仙米国家森林公园
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/mdjxxdsb/index.m3u8
+#EXTINF:-1 tvg-id="ylxs12" group-title="直播中国",云南保山板桥镇青龙街
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/ylxs12/index.m3u8
+#EXTINF:-1 tvg-id="dhyyqsm" group-title="直播中国",云南德宏勐焕大金塔
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/dhyyqsm/index.m3u8
+#EXTINF:-1 tvg-id="taishan02" group-title="直播中国",陕西咸阳乾县乾陵景区
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/taishan02/index.m3u8
+#EXTINF:-1 tvg-id="nss01" group-title="直播中国",西安阎良关山石川河风景区
+#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
+https://hlslive1-txy-21.live.cntv.cn/livechina/nss01/index.m3u8
+#EXTINF:-1 group-title="急救「技能」",人工呼吸法
+https://vod.youlai.cn/72de8cf0d9914731ac2fd288728b5e4a/a1a38082a6b948f2b0613cd995721d20-c65de217ed281ce147a07baae3d58939-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",婴儿心脏急救法
+https://vod.youlai.cn/a2be1cd81e0649478ee37e5d1ff2b9be/b92fe561abf14181959899867bae97c0-99e7a88b8037e53c68b969453e84537a-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",儿童心脏骤停法
+https://vod.youlai.cn/54ffd34a01e04bf5b646aee765bc0aba/d99caa428ec542479c912699859cf1c4-d0d3fd20a6f674cfe9c9582810ac86e3-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",成人心脏骤停急救法
+https://vod.youlai.cn/e9f758ed68794b2ab9cdc7dbb6b7cc45/2e477278fa004167a4e5bc595bd60a62-987d9ce98cbb9609e5ac4c09e440a68a-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",止血
+https://vod.youlai.cn/39bef4b5e26647a0a69ed00c3a8932c5/8caa1d77d1ac45a8915f78adaea91f25-8c989b9c4fc704e73641ec75a3a7c33e-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",异物窒息自救法
+https://vod.youlai.cn/a9840cc3e7a844f28816462c5e861442/4d0137e859b143d9a5ae70cd4be5f8ef-54fed1bc4ea787acb0383f010b746b9f-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",成人异物卡喉急救法
+https://vod.youlai.cn/e112f582bc7f48f7ac2061ad9ff77d05/089337f78dbe4376a0edc1ff1e4dc905-5bd95119a07d9e9911ddc7747b8c2b73-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",孕妇或肥胖者窒息急救法
+https://vod.youlai.cn/e9945800adf4483aa8b99f2ed02f7db9/e82ea3137ed644f4b45515f080acb166-92d583ece133244f04cd62c480c5b8f9-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",异物卡喉自救法
+https://vod.youlai.cn/7f9c1f2f3e9e4188b512dd4a678575a8/6ab269f753544196946c8db53ac7074a-e4c128779db52824e23331e967838a8b-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",儿童异物窒息法
+https://vod.youlai.cn/87a1b54899b84ce4b35e0229d7d11ff4/e5d9d41b5a284265b7b32cf30cf5d382-4dd371f26bde71ec0f361811f2d9a823-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",肿胀处理方法
+https://vod.youlai.cn/8fda9119c9534a4794db6c7a31150735/a401033c210d47e998e5439633b6113b-f2f99832467f424a877a63ca0e59ce44-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",仓鼠咬伤处理方法
+https://vod.youlai.cn/eeb33864357241ef87c17a56175111d4/4de857208e91439d9d572f063cd0a035-710763a01f7a7cfa8394785e5babf4b8-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",岔气处理方法
+https://vod.youlai.cn/bdee6ea815b947ceb141b90318f9e340/872f35e1094744aaadd94661d68d8670-6481a06ca8bcb467576a42c975bccb47-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",肌肉拉伤处理方法
+https://vod.youlai.cn/24f7d92424164ed79f3a5f8fc07b795e/091cc42307174a1e9471afaad7d9ea1c-d9a54d9123e2bc06fec46f276a03d188-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",打耳洞红肿处理方法
+https://vod.youlai.cn/5e871e5d0a5a40b2afa3fcf43189bf21/ac3f2b3b45dd4431b283b8dd33250527-53e12391161e6916f8f60c718f3ed600-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",鞭炮炸伤处理方法
+https://vod.youlai.cn/7cbe2aa602e647cfa9854469c98e0253/0ca8b2f345e8451c9b752be5955ee630-f73ce0dfba3961d563d3f83095cb1eb4-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",脸部过敏处理方法
+https://vod.youlai.cn/f41db2075a4b46868ddf0e6c3f573afe/6f0b72a7c94f43a0b673b7b9a2ba951e-41e07231176e6bad866301574ef39418-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",老人跌倒急救法
+https://vod.youlai.cn/10e2f18bea574626ba869635ba8a70a1/c10ba0b524024cc38ef5c1f1ed3c14bb-58a4856dfb14c04e833e0f04c768327c-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",擦伤处理方法
+https://vod.youlai.cn/781932e07d384aa8b1561585b4ff4886/833b9b8c55304805ae060a3a35228cda-a39a84bfbf493ec6b959247c867f836b-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",断指急救法
+https://vod.youlai.cn/e5444074ddac4b42993e4c53128516cb/d2a91e76830348f0abad2c92e05ffeef-d3194db679534a6111a589c40e34bd02-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",腿抽筋处理方法
+https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",脚扭伤处理方法
+https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",异物插入眼急救法
+https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",手腕骨折处理方法
+https://vod.youlai.cn/5dac4c0270d0494ba44335363c423880/d6955fc18f904f2ea475eadf688d6abb-fd044f38418d95032593afc5d32f099a-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",光灼伤眼处理方
+https://vod.youlai.cn/295ee383fb8c4938b88ec1304a928148/b323fd2e45eb4c31a810529e6291cdb2-4afbbc0c71d94098cb14c6b7b1b69c10-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",新生儿肚脐出血处理方法
+https://vod.youlai.cn/40a915c014d5426c8c706d8567a89f43/fbefdc2e4af14523975bf9443dbbe894-0e347c7bfa4b1b8d5ce409400aad5001-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",中暑急救法
+https://vod.youlai.cn/61bf57df0872464ab9111580c1d2502c/4c1a2dbd84304c10a6b912e036affa12-40e91584104a5983da7154183cabeffd-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",癫痫发作处方法
+https://vod.youlai.cn/e8aa843a991d4b41b203209d4fba6e2a/63a7d3b21ce54903b5c8ef6c23749226-619d2f6f5f84c835c41a979a1e015390-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",过度换气处理方
+https://vod.youlai.cn/13b0dee02042475493a7f90b6b632007/fb6d33c1451c40aeab64d54a0669335a-d1573855f8c1f22c33e4591068b08591-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",急性结膜炎处理方法
+https://vod.youlai.cn/bebffd4e1fc842429b94dda35d03dc9b/b60d45e589df46eaa6a468d8aba6aa14-fbe68decf8ae156b840bfc9bed978e80-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",耳气压伤处理方法
+https://vod.youlai.cn/4085b6261a8e450b836453c9974ef152/72aaff05251245449a7f0328c21502de-85a9adc3c0f44169a4c820102fbb92bf-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",迷眼处理方法
+https://vod.youlai.cn/a14a54cd83a04c13abaf1029709d269f/8569d73c20ab4daf98b6f9f42d872cf7-f7a7e4723da82252863363b83f7894bf-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",蟑螂入耳处理方法
+https://vod.youlai.cn/66b0bf74486f41a5b7c46235a8c621a9/b56f8469d9e3430bad0adde74ac9cab4-36df65db105bc7da8a1c5ce973c31948-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",晕厥处理方法
+https://vod.youlai.cn/5f20d9ad7250489fa051bc8d60f77e02/65497fefd9234706b1f7660b7ee28b17-e0eb649fad0c8892d788a626b0d2f1ba-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",昏迷急救法
+https://vod.youlai.cn/067a34834fcf435595ad6e0e3e46680f/7fada488945d45c0ba8ee8512e5c28ce-8736b0137369ce559f8ba3dd1448a95b-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",颈部损伤急救法
+https://vod.youlai.cn/61d2c4481b444a4f83ef660ae95cd26d/fc7e8abe096747dc9493e7b5c71cc275-b96bf74a2bf5b4caf9918a32a0838b99-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",戒指卡住急救法
+https://vod.youlai.cn/fc527c47206d45709aede298aa758eae/63a203aae19a45069fe1951437bcfdcf-3fb5fea64bf4b64057412b463f0e49d1-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",心慌处理方法
+https://vod.youlai.cn/5591da90536e4337b8c485145672c464/6d317c0c93f44dcc842becd735afef23-df19edc49094c256326a3ede40ec8403-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",水泡处理方法
+https://vod.youlai.cn/29fcb883a4c246eca436ead0a42d18e0/1e7210ce30044f36b418e60ad1a57edb-b71ff96c2a1318b7f48e802e6508f763-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",飞虫入耳处理方法
+https://vod.youlai.cn/0af10bb211ab45b784f12106ed06a7e5/7a2a2c21c39e49b1b8d03e3e4522ad37-3dc0ec14dede3c1b0c5f21a27b1c83b0-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",甲沟炎处理方法
+https://vod.youlai.cn/a006e1fc57424e2db9fe9f7f0b0546bd/a3e9a4621e5b4f3b808a910794d84713-0696ed0879b153db663d587d07569dcf-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",成人发烧处理方法
+https://vod.youlai.cn/90b5fb940b524685ba9ec05be694fbf7/c898b858fa304a1b9ea536df65e65479-94e7ead60ada59ecb2e4de90b813ed24-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",成人鼻出血处理方法
+https://vod.youlai.cn/262c7daafafa430893ef3a9bebc99cd9/979ad6d0214d4deda523bb02e4c91aed-6e0ff39d527866e0a842ccb9f7221738-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",儿童鼻出血处理方法
+https://vod.youlai.cn/a3f97b26814b482c94ff1e2aca8c97b2/40b6c9ff408a481eb52db948fbf3970c-14f60a556d88cdb589b8fd9544adbd29-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",海鲜过敏急救法
+https://vod.youlai.cn/ca5770224fc741d78d6d215716ace128/b0106fe79029420eb71a0af573bfc6b7-8d642e8c930414ff3a6868f3c3cea93e-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",鱼刺卡猴急救法
+https://vod.youlai.cn/e7db193df1ab4edf94e8a064c0297b64/17176343c9a0408788b0546e3a7e26fc-bf085799e3968f62bf1a55b55dd7ad02-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",下巴脱臼法
+https://vod.youlai.cn/33d440f740534b589a7335e0424cb8db/d32bebe92fd342aab0068753d3f02275-661d48579368040f8be1d15720f5fdf7-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",肘关节脱臼处理方法
+https://vod.youlai.cn/47f9e9549b4046d7a180813574924a04/d8186f4fd59b407780ae7f1b4e07d29d-755bbea5ef2946cdcd1dd8b9887cf94e-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",徒底筋膜炎处理方法
+https://vod.youlai.cn/88a6f5fb1f1749248fe6a47df9abfb12/8a184c30af93470db12a26f905e106ab-91b9f15131d50c2284fce099cb942661-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",足趾损伤处理法
+https://vod.youlai.cn/f958c7d338724071860fc821d46d5d68/c77d23419b614866a263cc4919fd03b7-8755433ae77b8708a6e980693903d827-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",跟腱处理方法
+https://vod.youlai.cn/2f055945d68c4b2f880805556c043965/be909238642a475e951950927d51ad07-0ea0e834ed2c2339435b2f0c9295062e-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",脚扎伤处理方法
+https://vod.youlai.cn/076315781c5440b89670e5853d29e4d8/5698d77ef8844c408a25271da0283b02-ab94c988d8a8edc4922c2fe15aabde0e-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",肩关节脱臼急救法
+https://vod.youlai.cn/14a369fbefc749f6be5554eca9356922/6d72a28f54044db8a37f35a0718c0e2b-660ec9ae43f02987b2fa685fc345a564-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",膝关节摔伤处理方法
+https://vod.youlai.cn/fa114923095e49b49754ffe7c169f278/3b10c94f5a1044a79ef7ca00e0285a5a-fed39b18fe900eeaa4a5cbe00604730c-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",割伤处理方法
+https://vod.youlai.cn/36086c9a792f4401a0c34e11575d262a/71ded23fda4944ec99a8a432da58bb34-82fe1b07a9f2cc4705f6df2ab0e99711-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",高原反应处理方法
+https://vod.youlai.cn/bd1971a7e0ef4eae9c222c91a85a83c4/e1229824f3374f7aa86b87df9d48912e-28eb26eeab131f2ad57b00162163b0ce-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",晒伤处理方法
+https://vod.youlai.cn/4a379839dfbe42d89103290456d8b50a/5fe261c71f6a479fa37609240b9bd86d-785a0859b6a9b39936f2da48419a466a-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",冻伤处理方法
+https://vod.youlai.cn/dcd2f0072bd7438cb715b1561a0c223d/f7c6eaaef73c40efb0d154b1f1da4262-a19fc0038228d3f61b5943466cc0f17a-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",触电急救法
+https://vod.youlai.cn/7f3831982d3646efbbd26a66d980b0ea/3345dfa9413040b6b644e7ab62fbdb28-3f0fb88ff1bcab05c214de3fac7aa88c-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",胸部外伤处理方法
+https://vod.youlai.cn/596b9e7960ad4822911ebfe2290c4e36/17f63a8350624eac88e9e8532326ecb8-7e663d6ea2f291da6bbef23987cd3123-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",腹部闭合性急救法
+https://vod.youlai.cn/ff949dae2472414db4f06c95ef3f97a4/61602548b92845829e0941ea5f4e7164-aae95db40354086328f6a347b5db7d48-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",腹部外伤急救法
+https://vod.youlai.cn/8fe91a5c5d7f4396a312de3d23818de7/2c9cfef327154f2e82db4ed62264cfa3-675fe201ba0fec913b42b2061c526394-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",手臂骨折处理方法
+https://vod.youlai.cn/d4c4e946b40e46c2bb54bde6893d06a3/e89e8e5f7c634ee39d15b4cfcff5090b-832ab82bbd921f68af8b28269126daff-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",脚骨折处理方法
+https://vod.youlai.cn/dc67e3f07e304a12bd6b132166e6fe68/a660a8df7c5543489598a10bdc3d80b4-d2b67012120cc67c43a2eda568b17389-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",骨盆骨折急救法
+https://vod.youlai.cn/facf3b550874442094c2ac5e3a6c064a/f669ab937f7141c8bbb182cb0ab9cbea-8aabb6db6aeff3714b01cbec504ed720-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",大腿骨折急救法
+https://vod.youlai.cn/cc6ca6f8a7914a88844a99a8cf1cbf83/a669ae6be68e4e72b94ee0f00d083130-0c63b869f1a94abe1c65f055a70b2b80-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",髌骨骨折处理方法
+https://vod.youlai.cn/2577e72b04594521aea450157420315a/42c2eba08460411e9916ab5aabfe8982-d94a16582771145242c2b2411167e1de-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",肋骨骨折急救法
+https://vod.youlai.cn/a2fbf74fbe64485a85a2461e2efa58a4/dc79ea09669149b08f49e64dca6299ce-dae8bdd9f0e276b0f68b3d645363988f-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",锁骨骨折急救法
+https://vod.youlai.cn/617f0d94d4914b1f9e22154d72898ab1/e18a731a99fb42499f0ff1738d3002fa-00fc4eb20c1354c9307d70a311073949-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",手腕摔伤处方法
+https://vod.youlai.cn/73da1d83f1d44757ab563befe4d3c043/374343e169064106843b447ea4172b83-c395bc2c051a6cbfeb4d31d5bfed54ce-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",溺水急救法
+https://vod.youlai.cn/2aaa587bbd0e4956a56308a0938639cb/7ac941194a5d40cfa6da4686b260b387-5d426ff1efd528dabda8e033370c8cc9-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",烫伤处理方法
+https://vod.youlai.cn/a20efe703b7a42ec8ccf8a6a8dd9727c/f2a8b958b8ec48a688f1c03a67230b79-99b25adf2d1ceec924e6f239734ec17f-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",化学烧伤急救法
+https://vod.youlai.cn/5d47114144cb4e1db85ad47900bd7f79/e7c3c073b7c24869a054b9737011f30c-881d5aba1b662946699ca1772704a530-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",烧伤急救法
+https://vod.youlai.cn/eb9e5234a337406d8a2e697bb4aac898/e0ee1169d3c64f319e1f1872d3b7c1d6-176ddb4e1e02662f900012ad091fd1b1-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",震后伤者搬动法
+https://vod.youlai.cn/0f576600f83c4742bf72d18710cdb5fe/5cf97ece62504c4ebf13a0a6b6ee50ae-928415aa4ba64b511fbf0e8430721bfa-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",地震后救人法
+https://vod.youlai.cn/e3834231164a463c92b5f52958c26bd3/aac03e41e540489ab112f777ab93f583-c5c04be7262ece281727bd488251ab7d-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",地震常见损伤法
+https://vod.youlai.cn/8747628437f2480aa4621543f1d0c40f/5f1999e4ef64413785a34b0bd9d619d2-830ee851f6aa699e0aa5f25b6d7f6565-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",震后如何自救
+https://vod.youlai.cn/b34b204500d24dbf8192c7bbff2d824c/d1da2a68305341e3a8bbcd7f02fdfd2d-d2ebb1ef5a9acaa64a641d8934176d7f-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",地震室内避震法
+https://vod.youlai.cn/ee919f7ca13b455a8fd962a67a16f6fa/6821b9d7cf654b9d9158e740b68d2881-f086476aece37a745a799375ef02be98-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",逃生绳使用方法
+https://vod.youlai.cn/f83c5c894ef44926bebab5e9f980db9d/a4e1f6c4000e43a58fc9db67f9e27aa8-5048cf16b73fd77466c630985f1181c0-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",消防栓使用方法
+https://vod.youlai.cn/12c48bb0131446b8ae4220f42f30d00e/a449907d3c184117bce1fa4e45160021-50a5d596f5ee393960f56889965b1465-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",灭火器使用方
+https://vod.youlai.cn/2c88e8af457941df96d136d9180aafcd/331c57c1d1ce46e2b6ba7b11eb0e8499-91b000c96ad1110e5138a95b4a1a8c6d-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",液化气起火处理方法
+https://vod.youlai.cn/44842e77fd8743708a979a4837e20a9d/200b19fcd2de4d3780fd27a2759bfed9-636d28f3b9a88ae79c0094ff97a9ec94-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",电气火灾处理方法
+https://vod.youlai.cn/cdc5cb23d6174aec872921e5bec77250/32681fe6b1074d5f8bf60d38eb399edd-beb682835cdae40a0b43795538eee923-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",我起火处理方法
+https://vod.youlai.cn/ab9e0e587d154a6197096d238e4c472d/0c34c13174b0499498cce1b7e81cc3f7-b3f101dfb12ede79e1d9fe73d850ccd3-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",防踩踏方法
+https://vod.youlai.cn/dc71bfc95b714da686854369c88d6e62/fb48f39d6a1642718022d85af3b46b48-3e3d6fb9a249e5ec80227d14b1c956d4-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",狗咬伤处理方
+https://vod.youlai.cn/efb13bc94e464550b949ab5bab9ab9a7/b7bb739318df4dddb9c52ca9b0127d6f-190e560d8873c154505d93dcade96c9f-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",蟹蛰伤处理方法
+https://vod.youlai.cn/fa350ee7ba3c4cca8ddf385b1eb4097c/53fb11d27fb44c1682b2f04e0ef387b0-7290c6efd2c00d1ab8b8491ebe041fcc-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",蜱虫钉刺处理方法
+https://vod.youlai.cn/124bdf764e614adf8491c1121d87c1bd/50fae9f9b7c8450594a46022e3b8eece-20179239507042181e9cd360836b058a-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",蜘蛛咬伤处理方
+https://vod.youlai.cn/d5c4e69e618045739f1c97cd3de22182/51fc5c8e2a1c431db9d1dd08a2fbcee7-114c80b900caaa8bd4fc60e21f626a9c-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",蜈蚣咬伤处理方法
+https://vod.youlai.cn/87440ac367524528870aced7d8d20759/3f0043d062c840919db22838ddf5bcb3-9dcbf485d19a8a8e482718948aa00a4c-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",蚊虫叮咬处理方法
+https://vod.youlai.cn/0227532bbe394870ab6916bddcdf8fbd/4a13b2bdd47b44a6950938b88b93e432-8326cb6fcac3de94f967b640a47d857e-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",能抓伤处理方法
+https://vod.youlai.cn/ae8b88e5c48f45f48c6a2dbbfb4a8be3/2d5b6cfc40e24d3fb0d74214bfca923c-43c397325b77142b053445484e7e436e-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",猛兽咬伤急救法
+https://vod.youlai.cn/ea37002cb665420e9b032340fd6ff092/b43d759483bb4262b5a566dc3a169ea7-fdf0c4b174e12c5987e794c28c607140-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",水母蛰伤急救法
+https://vod.youlai.cn/fe77291f998f48cd92b208a01896c5c7/f0e7b5a475e34236b0e52380255e41b3-81f75be434f9d556a17392ddd7f91344-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",海蛇咬伤急救法
+https://vod.youlai.cn/37a06880123241eeb1ca2ce1f8b0bf29/478166d496c6484cb399d273ba8bb87e-26219703ab39d0ded314ad171c34284e-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",海水溺水急救法
+https://vod.youlai.cn/5cbedaa6dc614ae999433229c5d4bade/d879c5a126ba4c568e0c1f7c1b2c1bd4-e6602e7ee0d265c6228aa9a79b0e7268-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",食物中毒急救法
+https://vod.youlai.cn/2541f97ec35d4c509a5afaefd6be7d20/9e904355291c4b16899efc7a873e5086-36c651959f8a3eda9cd43a41a63bbc82-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",糖尿病急救法
+https://vod.youlai.cn/e334c441835c4844ac70a686d3578f1d/2eb0c31e5b724fbc9ee8c45e2d9e9885-d713526c69730f627ed351e32d044a88-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",油漆中毒急救
+https://vod.youlai.cn/eee9fc95203c47b1a090dd0155a78e03/0687b0c49efa43b094ace508883e0f6d-693dbf51f67e16dbb78b9274e5183ad7-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",氨气中毒急救
+https://vod.youlai.cn/27ffebb67405475780b5ff20cdb43f66/d509d745bc624a1c808b29c19d64fccc-30d5d34cecd554150ec38e12c8cbee55-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",锌中毒解救法
+https://vod.youlai.cn/f7a1fc3d91964b99b9b117f2ffbd548b/8c15eff9a47f41b3aaae3f29a81d1064-88b217748ee9969075c0cb2ee10120b0-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",甲醛中毒急救法
+https://vod.youlai.cn/29550736988141a6be9c9810cff04e1e/6140e6e25aef4ec68a1d5f3826066c04-497e0b69b52f304ce451783101a3ff17-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",中毒急救法1
+https://vod.youlai.cn/6cc2f50a3b014e6b956969b7511f0478/e07b2509edd14925b9379752029ce4ec-e4d258fb31ce3a5494180fe2a4af5b5b-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",中毒急救法2
+https://vod.youlai.cn/54ae2683b7e54eefa72050a06146d9bc/d4f7d38fceaf47619c2dec179e1e4d3e-e60a6525ec4958f1ca44f9952fdb9748-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",氢化物中毒急救法
+https://vod.youlai.cn/4231117656f947c7a13401ca8639315d/cb59897f224c43b387b9a19a4487a515-535bd15a1be7092b76657e94998b3863-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",鱼胆中毒急救
+https://vod.youlai.cn/3c2d5ff2c4d4453490e477d28cec4f2b/2c7c8f9e2f634444bffdbff2f7a6458e-183c289f3ccc0b84cdcdbfae64d6270b-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",农药中毒急救法
+https://vod.youlai.cn/c7c6a5fa5c24456f86a9cb836a429446/cc2b418ae6a340c391125d98a56e806f-5cfeed2866c15ba1cddb20628d88557e-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",酒精中毒处理方
+https://vod.youlai.cn/0aec9e40ab59452ca0e600bc615fc1b0/ed0e0406cfbd4fc0a38e0a3cec8e6628-7512f0e8411535dc1b567d27b60806fb-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",毒蘑菇中毒处理方法
+https://vod.youlai.cn/bb9f6b62f1c64c1f86a6b562cac30949/5a183478ec3f42df8ca40e38086a3915-bc155b31c5a3db28543ce6876ca5439f-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",百草枯中毒急救法
+https://vod.youlai.cn/1362bc996ccf454aadbf9d9fccac18fd/4237c532ab9a4c71bb14db74d1f6aded-18a69fcf8f4e1bc5fca33557a3b9e7f9-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",鼠药中毒急救
+https://vod.youlai.cn/25f88bc2ab1c49a4956fef3ed025371e/a8d02a46436f4f92a98531c840861c39-e6fd9c194b4cda974f5cf434a40549bc-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",水银中毒急救法
+https://vod.youlai.cn/f52af57685b14362bc14269ebe4088fa/f9b5e9d124c046a180d8605ec845eeac-ccb22a4ad1f189b5ef37472411120ada-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",安眠药过量急救
+https://vod.youlai.cn/8b4722113c2749798049b105f7617d2d/817576a6ee234e3ab1c40c2950e2cb01-4f45a2d73aef642aac0926a2c65558d4-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",铅中毒急救法
+https://vod.youlai.cn/ac579a5c7ae1467889bdf253112fddff/e83bdb4916f14712bf486aeba625520c-e91c94b52ac4e1364952ebcad169447f-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",河豚中毒急救法
+https://vod.youlai.cn/54bb6f7f430a4b01ba135a81d44adf4b/80c3fb00cc0b4316a27a1a78c8c73666-ee55ff49bd654f85e212eeb11fefe2a6-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",煤气中毒急救法
+https://vod.youlai.cn/ff4732cb61da4459b3d1f05d438f6960/060bb35b8c8f48f1a42a640cf3645392-5e96ffaf9ba8489beaca87363f591ad7-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",亚硝酸盐急救法
+https://vod.youlai.cn/bb65c8d09d4d4e6485ec713adba0bbae/c782c5de3f3943a7930c35b45b7db3e1-0628404169396ded4d136ee9b75fb855-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",急性肺水肿急救方法
+https://vod.youlai.cn/cc3dbd5d0a1f4fea8b46ac0f995b916a/796a1ea552c14355b84fe65ff22f1505-faa7b0d74e172d056867afe29900afb3-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",视眼膜急救法
+https://vod.youlai.cn/778856eb18ed46c792ddaee436d6cee5/744d887bfb9244f5bf7657990b4fb5a4-54e9ef2c3411c44ef4ae31fe491e8c70-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",花粉过敏急救法
+https://vod.youlai.cn/f057f1f9b8a94da3b94f71463ebbeaf2/08a292496fce4f428626d9102750d351-26638ef62affbb65b374ccb994ec86d7-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",药物过敏急救法
+https://vod.youlai.cn/4893b4079a5743a1a336cc2e39987aea/078812b7cb80483b8201d4484e58ced6-c7d42026aa0243ce777ec86ac068a3a6-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",食物过敏急救
+https://vod.youlai.cn/4e30cbe3b54e4d08b6fc1cbd3615369e/cf38ec324c9b402babd483cd25f7721d-9d19493aafa7471219ceae34da2d69e2-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",成人过敏休克急救法
+https://vod.youlai.cn/e8a2ab31f2aa4aefa5bad4b2d1459037/1dfe90dfe2ad48b9a7c9a74298f6a1b8-755ae33f066ae59d8b4c3dd3f59da889-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",胸痛急救法
+https://vod.youlai.cn/c076ed1b60204d95951f5c9319f177ca/0be7c21158d0496d80e72bd645dd2ba7-4c30d8bd1923ea63c73cc6facb299eb2-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",喉头水肿急救法
+https://vod.youlai.cn/e16e32a1ce1a4b0b8bf874f5d8afec77/2f6e7e28d3b442a886c3c40fb872dd79-1488cbc41a1601d3b8176ac500df3e5e-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",鼻腔异物处理方法
+https://vod.youlai.cn/0d3341a2ef8c4f5298b8cc965f05d527/ed2e19b8cc754583a7da984f13eb4365-7ac2a29797c6329f0aabb6fdae128b63-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",急性青光眼急救方法
+https://vod.youlai.cn/8a5f88b015d64457bb428bbda43744d0/7ebd2cd9e3e74f5aa576b507d9478300-f37b25f245a1d856fc1f477a7fe45223-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",化学品入演处理方法
+https://vod.youlai.cn/43c13b78ca874ede99f61785f5119bec/13df4d8b490f49a8b8a9a24da857cbe8-1ce9d77d8c8735c849804131cba20102-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",呕血急救法
+https://vod.youlai.cn/aa073e2cf1644d81ad4eaaf2a762d010/16de57484821437895023936b1946903-7c03758906b6049c7eba83414bc3a63c-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",哮喘急救法
+https://vod.youlai.cn/ff8d34b583f74acfa04614dcdea3fd9a/65e3fb1cc22842b9bb2142a749db4d6a-3e5411a29aca5a95f3319f03c2efb587-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",高血压急症急救法
+https://vod.youlai.cn/6b4d7da0c8b647d583528abd6af52789/d6e63b94efa8499b8e48b2f20e888fbc-4407693169422fcdd6162b9f01855ec8-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",低血糖处理方法
+https://vod.youlai.cn/5e65ad9d42394cc69b0dd4321632ccf8/31703e5aac7f408591c210183232e452-6b0e78518f94071dcf5624e18540eb5e-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",小儿高热处理方法
+https://vod.youlai.cn/d75dc9968757423fb6829edf36dda96b/8caf4e4aa38445239c005154540fc16b-30d20c0c6b1388eaf360bfed06ca55a2-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",肺栓塞急救
+https://vod.youlai.cn/9df5ed604e954c6e88601b4d50984619/6008d40b3b24474e8d3a1728759f7dd1-9a37765115de6176497626491bb328d7-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",突发低血压处理方
+https://vod.youlai.cn/c7ba9f487cb449cf9a498ea73d4ea2b0/9b89b6b26d334c54af4c556bed36602f-b5e3f5cf3e0abe7bd2a9231aef55ae4b-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",失血性休克处理方法
+https://vod.youlai.cn/2da434bded7f469d986a539dcca68d9f/0906b1228632440798d1ef73bef770cb-49e854587498fdc03abf0f9ac81e9ffe-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",脑卒中急救法
+https://vod.youlai.cn/82fc05984b374ec89e1c2ee43460c00c/bf55998ded4e401aa0ac237312793965-7fc1fd3d1ffd2f65cbe42c65ad5003ac-sd.mp4
+#EXTINF:-1 group-title="急救「技能」",儿童过敏休克急救法
+https://vod.youlai.cn/b2c9917f4b6b42f88cdf19e0cde5492e/bec39ba2ad854892a43020473a4af580-93a027c0ce27e445c360c7817965f137-sd.mp4
+
 #EXTINF:-1 group-title="日本JP(挂梯子)",NHKGHD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01&isp=10&bind=0&uin=159413&playseek=
 #EXTINF:-1 group-title="日本JP(挂梯子)",NHKEHD
@@ -721,88 +1241,3 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&bind=0&uin=159413&playseek=
 #EXTINF:-1 group-title="日本JP(挂梯子)",TBSNews
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=
-#EXTM3U
-#EXTINF:-1 tvg-id="dlst03" group-title="直播中国",北京密云古北水镇
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/dlst03/index.m3u8
-#EXTINF:-1 tvg-id="zjwzblt" group-title="直播中国",河北秦皇岛金梦海湾
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/zjwzblt/index.m3u8
-#EXTINF:-1 tvg-id="zjwzbblh" group-title="直播中国",河北秦皇岛老龙头景区
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/zjwzbblh/index.m3u8
-#EXTINF:-1 tvg-id="ljgcdsc" group-title="直播中国",辽宁沈阳浑河桥
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/ljgcdsc/index.m3u8
-#EXTINF:-1 tvg-id="hsxksqj" group-title="直播中国",吉林市朱雀山
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/hsxksqj/index.m3u8
-#EXTINF:-1 tvg-id="hkylxs03" group-title="直播中国",吉林市北山公园
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/hkylxs03/index.m3u8
-#EXTINF:-1 tvg-id="taishan03" group-title="直播中国",黑龙江萝北县嘟噜河省级自然保护区
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/taishan03/index.m3u8
-#EXTINF:-1 tvg-id="hkts09" group-title="直播中国",黑龙江哈尔滨霁虹桥
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/hkts09/index.m3u8
-#EXTINF:-1 tvg-id="hspyt" group-title="直播中国",江苏徐州之夜
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/hspyt/index.m3u8
-#EXTINF:-1 tvg-id="taishan05" group-title="直播中国",江苏无锡大剧院
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/taishan05/index.m3u8
-#EXTINF:-1 tvg-id="emsyh" group-title="直播中国",浙江舟山嵊泗县中心渔港
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/emsyh/index.m3u8
-#EXTINF:-1 tvg-id="djd01" group-title="直播中国",浙江舟山东极岛
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/djd01/index.m3u8
-#EXTINF:-1 tvg-id="wgw02" group-title="直播中国",安徽黄山风景区
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/wgw02/index.m3u8
-#EXTINF:-1 tvg-id="wysynf" group-title="直播中国",福建南平武夷山
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/wysynf/index.m3u8
-#EXTINF:-1 tvg-id="jhs01" group-title="直播中国",山东青岛艾山天文台
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/jhs01/index.m3u8
-#EXTINF:-1 tvg-id="pts01" group-title="直播中国",河南焦作红石峡
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/pts01/index.m3u8
-#EXTINF:-1 tvg-id="hlzycc" group-title="直播中国",河南浚县古城景区北城门
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/hlzycc/index.m3u8
-#EXTINF:-1 tvg-id="hkts02" group-title="直播中国",湖南邵阳崀山风景名胜区
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/hkts02/index.m3u8
-#EXTINF:-1 tvg-id="zsslstpt" group-title="直播中国",湖南长沙果园镇田汉文化园
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/zsslstpt/index.m3u8
-#EXTINF:-1 tvg-id="djyqyl1" group-title="直播中国",广东深圳福田红树林
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/djyqyl1/index.m3u8
-#EXTINF:-1 tvg-id="ljgcwglytylxs" group-title="直播中国",重庆巫山长江画卷
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/ljgcwglytylxs/index.m3u8
-#EXTINF:-1 tvg-id="ylh04" group-title="直播中国",重庆李子坝站
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/ylh04/index.m3u8
-#EXTINF:-1 tvg-id="zsslsjjfsd" group-title="直播中国",四川成都安顺廊桥
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/zsslsjjfsd/index.m3u8
-#EXTINF:-1 tvg-id="mdjxxdsb" group-title="直播中国",青海门源仙米国家森林公园
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/mdjxxdsb/index.m3u8
-#EXTINF:-1 tvg-id="ylxs12" group-title="直播中国",云南保山板桥镇青龙街
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/ylxs12/index.m3u8
-#EXTINF:-1 tvg-id="dhyyqsm" group-title="直播中国",云南德宏勐焕大金塔
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/dhyyqsm/index.m3u8
-#EXTINF:-1 tvg-id="taishan02" group-title="直播中国",陕西咸阳乾县乾陵景区
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/taishan02/index.m3u8
-#EXTINF:-1 tvg-id="nss01" group-title="直播中国",西安阎良关山石川河风景区
-#EXTVLCOPT:http-referrer=https://livechina.cctv.com/
-https://hlslive1-txy-21.live.cntv.cn/livechina/nss01/index.m3u8
